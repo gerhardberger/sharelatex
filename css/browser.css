@@ -1,0 +1,28 @@
+body > nav {
+  /*-webkit-app-region: drag;*/
+  display: none;
+}
+
+.container aside {
+  display: none;
+}
+
+body > footer {
+  display: none;
+}
+
+body {
+  background: #f6f6f6 !important;
+}
+
+.col-md-10.col-xs-9 {
+  width: 100%;
+}
+
+header.toolbar, header.toolbar * {
+  display: none;
+}
+
+#ide-body {
+  top: 0 !important;
+}
