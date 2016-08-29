@@ -1,7 +1,7 @@
 {
   "name": "sharelatex",
   "productName": "ShareLatex",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Unofficial ShareLatex app",
   "scripts": {
     "lint": "node_modules/.bin/eslint .",
